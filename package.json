@@ -1,0 +1,67 @@
+{
+  "name": "amplify-beta-1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-brands-svg-icons": "^5.11.2",
+    "@fortawesome/free-solid-svg-icons": "file:node_modules/@fortawesome/free-solid-svg-icons",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "amazon-cognito-identity-js": "file:node_modules/amazon-cognito-identity-js",
+    "aws-amplify": "^1.2.4",
+    "aws-sdk": "^2.576.0",
+    "axios": "^0.18.0",
+    "base64-img": "^1.0.4",
+    "bootstrap": "^4.4.1",
+    "card-validator": "file:node_modules/card-validator",
+    "config": "^3.2.4",
+    "core-js": "^3.4.7",
+    "fs": "0.0.1-security",
+    "image-to-base64": "^2.0.1",
+    "jquery": "^3.4.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwk-to-pem": "^2.0.2",
+    "multer": "^1.4.2",
+    "node-fetch": "file:node_modules/node-fetch",
+    "react": "^16.11.0",
+    "react-bootstrap": "^1.0.0-beta.14",
+    "react-credit-card-input": "^1.1.5",
+    "react-credit-cards": "^0.8.0",
+    "react-dom": "^16.11.0",
+    "react-dropzone": "^10.2.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "styled-components": "^4.4.1",
+    "superagent": "^5.1.0",
+    "svgo": "^1.3.0",
+    "typescript": "^3.7.2"
+  },
+  "resolutions": {
+    "hoek": "4.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2"
+  }
+}

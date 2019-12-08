@@ -1,0 +1,12 @@
+{
+    "auth": {
+        "amplifybeta14248c28d": {
+            "service": "Cognito",
+            "providerPlugin": "awscloudformation",
+            "dependsOn": []
+        }
+    }
+    
+    
+    
+}
