@@ -1,6 +1,5 @@
 Aim of this project is to Build a front end  website using Node js , Html , CSS in order to upload imgaes after credit  card details are validatated and then procedd to  extract text from them using textextract  service from AWS 
 
-
 Front end : Nodejs , HTML , CSS , Javascript 
 Backend : AWS 
 Services: Cognito  for New user Authentication and Federated Sign up 
