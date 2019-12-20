@@ -1,4 +1,4 @@
-Aim of this project is to Build a front end  website using Node js , Html , CSS in order to upload imgaes after credit  card details are validatated and then procedd to  extract text from them using textextract  service from AWS 
+Aim of this project is to Build a front end  website using Node js , Html , CSS in order to upload jpg/jpeg images  after credit  card details are validatated and then proceed  to  extract text from them using textextract  service from AWS 
 
 Front end : Nodejs , HTML , CSS , Javascript 
 
