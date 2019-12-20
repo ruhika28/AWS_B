@@ -1,8 +1,11 @@
 Aim of this project is to Build a front end  website using Node js , Html , CSS in order to upload imgaes after credit  card details are validatated and then procedd to  extract text from them using textextract  service from AWS 
 
 Front end : Nodejs , HTML , CSS , Javascript 
+
 Backend : AWS 
+
 How they are connected:axios node modules with the API  gateway endpoints  
+
 Services: Cognito  for New user Authentication and Federated Sign up.
          
           DynamoDb in order to  store  the Logs generated through  Cloudwatch.
