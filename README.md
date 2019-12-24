@@ -14,6 +14,8 @@ Services: Cognito  for New user Authentication and Federated Sign up.
           
           API Gateway : to enusre that the Font end has an endpoint to interact with the Lamda function.
           
+          IAM : User and group  level access management 
+          
           Lambda function in python to ensure  the storage of the  image and  credit card validation  through HTTP requests 
           and responses  passed in JSON . Node module called axios governs this 
          
