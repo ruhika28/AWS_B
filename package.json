@@ -10,7 +10,7 @@
     "amazon-cognito-identity-js": "file:node_modules/amazon-cognito-identity-js",
     "aws-amplify": "^1.2.4",
     "aws-sdk": "^2.576.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "base64-img": "^1.0.4",
     "bootstrap": "^4.4.1",
     "card-validator": "file:node_modules/card-validator",
